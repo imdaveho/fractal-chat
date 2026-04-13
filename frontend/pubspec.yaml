@@ -1,0 +1,17 @@
+name: chain_canvas_app
+description: Flutter node-editor scaffold using canvas_kit
+publish_to: "none"
+version: 0.1.0+1
+
+environment:
+  sdk: ^3.8.0
+
+dependencies:
+  flutter:
+    sdk: flutter
+  canvas_kit: ^0.6.1
+  http: ^1.6.0
+  vector_math: ^2.1.4
+
+flutter:
+  uses-material-design: true
